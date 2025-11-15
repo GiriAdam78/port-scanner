@@ -2,7 +2,8 @@
 ### Port Scanner menggunakan Python 
 
 ## USAGE :
-1. Jalankan Perintah ini 
+1. Jalankan Perintah ini Pada Command Promt Baik itu di Windows atau di Linux 
+   
 ``python super_scanner.py <host/url> <mode> [start] [end]``
 
 ## Available Mode :
