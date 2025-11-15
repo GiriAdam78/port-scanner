@@ -1,0 +1,28 @@
+SCAN RESULT FOR dataham.komnasham.go.id
+Generated at: 2025-11-15 12:24:19.666373
+
+Port 443: OPEN | Banner: HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Sat, 15 Nov 2025 05:26:10 GMT
+Content-Type: text/html
+Content-Length: 253
+Connection: close
+CF-RAY: -
+Port 80: OPEN | Banner: HTTP/1.1 400 Bad Request
+Date: Sat, 15 Nov 2025 05:26:10 GMT
+Content-Length: 68
+Connection: close
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Referrer-Policy: same-origin
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Proxy-Status: Cloudflare-Proxy;error=http_request_error
+CF-RAY: 99ec550b285285f5-HKG
+Port 8080: OPEN | Banner: HTTP/1.1 400 Bad Request
+Date: Sat, 15 Nov 2025 05:26:10 GMT
+Content-Length: 68
+Connection: close
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Referrer-Policy: same-origin
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Proxy-Status: Cloudflare-Proxy;error=http_request_error
+CF-RAY: 99ec550b3f0f854a-HKG
